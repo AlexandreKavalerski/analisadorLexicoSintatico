@@ -1,4 +1,6 @@
 # Analisador Léxico e Sintático
+[![Build Status](https://travis-ci.org/AlexandreKavalerski/analisadorLexicoSintatico.svg?branch=master)](https://travis-ci.org/AlexandreKavalerski/analisadorLexicoSintatico)
+
 **Veja [funcionando aqui!](https://alexandrekavalerski.github.io/analisadorLexicoSintatico-exemplo/)**
 
 Implementação de um analisador léxico e sintático para a gramática de expressões aritméticas.
